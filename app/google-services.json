@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003136609544",
+    "project_id": "bringit-fa5d9",
+    "storage_bucket": "bringit-fa5d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003136609544:android:4954b094cd8d9248df90bd",
+        "android_client_info": {
+          "package_name": "com.example.bringit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003136609544-j0nnhbj23dc37fdr75sl239lnsq707vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bringit",
+            "certificate_hash": "c5b4bd1cfece2d8982f3bfb78c7f6476e69b7b3b"
+          }
+        },
+        {
+          "client_id": "1003136609544-7jq7dqgfpqao15k8qeqjjeb15v39ctrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ZTjYa8AK42ARY8p9CymcEFMiERNPLFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003136609544-7jq7dqgfpqao15k8qeqjjeb15v39ctrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
